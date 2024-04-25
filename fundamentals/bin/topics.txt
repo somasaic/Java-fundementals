@@ -1,0 +1,137 @@
+
+/*
+ [2/9/2024]
+  * class and object, methods(getter and setter methods)
+  * contructor - this keyword
+  * Encapsulation
+  * inheritance - extends, super keyword
+
+ [2/10/2024]
+  * Varibles & Scope of Variables  - Local variables and Static Varibles.
+
+ [2/10/2024]
+  * Access Modifiers - private , protected , public, default.
+  * Polymorphism - compile time polymorphism & runtime polymorphism
+
+  [2/19/2024]
+  * Conditional Statements - simple if, if-else, nested-if, if-else ladder, switch, ternary operator.
+  * Scanner Class
+  * Loops - for loop, while loop, do-while loop.(nested loops, loops using conditional statements, nested loops on arrays, and objects)
+  * arrays
+  * Two Sum Problem from leet-code----------
+
+
+  ------------------------------------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------------------------------------
+
+
+
+  [10-4-2024]
+
+  Introduction to java 
+    - How to approach a problem - flowcharts?
+      -> Understand the problem statement clearly.
+      -> Identify the requirements of the problem
+      -> Break down the problem into smaller tasks or  subproblems.
+      ->  Start implementing the solution for one small task at a time.
+
+    
+    - what is java & Features?  (diff b/w interpretor and compiler)
+        -> how compiler works with java -> how java is diff from other languages
+        -> platform-independence 
+        ----------------- later
+        -> Object Oriented Programming
+             > classes vs objects 
+             > Encapsulation
+             > Inheritance
+             > Abstraction
+             > Polymorphism
+        ------------------- stop
+  
+  [11-4-2024]
+  - Helloworld java Program Syntax - keywords
+  - JDK, JRE, JVM 
+  - Dataypes
+  - Varaibales  
+  - Operators 
+     -> problems by combining syntax, variables, Dataypes, operators based on algorithms.
+  
+  [12-4-2024]
+  -  Control Flow(conditional)
+    -> Simple if 
+    -> if else
+    -> nested if else
+    -> if else if ladder
+    -> switch case
+        Break
+        continue
+    -> ternory operator (?:)
+
+  [13-04-2024] 
+
+  - Basic Java Coding Problems
+    - swapping of two numberS using third variable
+    - swapping of two numberS without using third variable
+    - Finding factorial of a number
+    - even or odd
+    - average of 3 numbers
+    
+  [16-04-2024]
+    - fibonacci series**
+    - palindrome checker**
+    - Armstrong Number Checker**
+    - Area of Reactangle
+    
+  [19-04-2024]
+    - Loops
+      -> for loop
+      -> while loop
+      -> do while loop
+    - Scope of Vraibles
+      -> instance varible
+      ->  Local Variable
+      ->  Static Variable
+
+  [22-04-2024]
+    - Functions Topic
+    - Problems
+      - ASCII Value of character**
+      - Character promotion in Java**
+      - finding sum of digits of a number
+      - finding power of a number
+      - check the given number is prime number or not 
+      - Leap year checker
+      - count number of digits
+  
+  [23-04-2024]
+    - Patterns Problems
+      - number Patterns
+      - character Patterns
+      - star Patterns
+      
+
+
+
+
+--- basic problems -
+
+
+- Access Modifiers
+- how static works when its was in class, and in methods and between multiple classes with and without inheritance.
+
+
+                                    
+
+--------------------------
+- Strings
+ - strings & string methods using oops concepts  
+
+-problems
+---------------------------
+-arrays
+  - array & array methods using oops concepts
+
+-problems
+---------------------------
+      
+*/
